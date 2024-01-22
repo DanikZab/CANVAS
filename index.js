@@ -1,4 +1,4 @@
-const canvasPlot= document.getElementById('1')
+const canvasPlot= document.getElementById('canvas_plot')
 const ctx = 1.getContext('2d')
 ctx.fillRect(0,0,100,100);
 ctx.fillStyle='#0000ff';
