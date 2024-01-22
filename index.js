@@ -24,9 +24,6 @@ ctx.stroke();
 
 ctx.fillText('текст',300,400);
 ctx.fillRect(300,400,2,2);
-ctx.font='30px Arial';
+ctx.font='66px Arial';
 ctx.textAlign='left';
 ctx.textBaseLine='top';
-
-ctx.fillStyle:red;
-ctx.fillRect(20,20,100,80);
