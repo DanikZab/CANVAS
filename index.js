@@ -28,7 +28,5 @@ ctx.font='30px Arial';
 ctx.textAlign='left';
 ctx.textBaseLine='top';
 
-ctx.shadowBlur=20;
-ctx.shadowColor="black";
-ctx.fillStyle="red";
+ctx.fillStyle:red;
 ctx.fillRect(20,20,100,80);
