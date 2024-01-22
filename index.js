@@ -1,5 +1,5 @@
 const canvasPlot= document.getElementById('canvas_plot')
-const ctx = 1.getContext('2d')
+const ctx = canvas_plot.getContext('2d')
 ctx.fillRect(0,0,100,100);
 ctx.fillStyle='#0000ff';
 ctx.fillRect(100,100,200,200);
